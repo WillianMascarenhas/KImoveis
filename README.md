@@ -6,8 +6,6 @@ O dono da imobiliária Kimóveis contratou sua empresa para desenvolver uma apli
 
 Através da aplicação deverá ser possível realizar o cadastro de imóveis e de usuários interessados na aquisição de propriedades. Além disso, deverá ser possível realizar o agendamento e consultar horários de visitas às propriedades disponíveis no banco de dados da imobiliária.
 
-A sua empresa está te confiando esse desafio, portanto, dê o seu melhor no desenvolvimento desse projeto, seguindo todas as regras impostas pela empresa contratante.
-
 ## Endpoints:
 
 | Método | Endpoint                   | Responsabilidade                                  | Autenticação                           |
